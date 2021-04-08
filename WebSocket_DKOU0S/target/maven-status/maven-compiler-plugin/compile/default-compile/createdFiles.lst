@@ -1,0 +1,5 @@
+service\SeatStatus.class
+service\Seat.class
+service\LockId.class
+service\CinemaService.class
+service\SeatList.class
